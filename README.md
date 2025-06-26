@@ -34,3 +34,9 @@ To run this app locally you will need a WorkOS organization outfitted with both 
 5. Run `npm start` and navigate to http://localhost:8000 in your browser
 
 6. Click on the Enterprise SAML login option to start the flow
+
+## Video walkthrough
+
+https://github.com/user-attachments/assets/d729fc83-25e7-44fb-83ad-4d5dca45a6db
+
+
